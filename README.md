@@ -1,4 +1,4 @@
-# ems-response-time
+# Visualizing Cardiac Arrest Locations in NYC
 ### Abstract:
 
 The Fire Department of New York (FDNY) is interested in improving their service to their community by identifying how to further reduce deaths due to cardiac arrest. From 2011 to 2017, FDNY responded to 54,073 deaths due to cardiac arrests. While many of these deaths cannot be prevented by FDNY actions, even a small improvement can save many lives. In these emergencies where seconds sometimes make a difference between life and death, it is worth exploring if there are features associated with cardiac arrest deaths so that some may be prevented.
